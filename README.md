@@ -26,3 +26,9 @@ step 4:
     now you can see your result like this:
 
 ![image](https://github.com/Rostamnezhad/Analyzing-dataset-using-Weka/assets/89247982/a6098307-530f-4549-8eef-6f72ca17a8b6)
+
+step 5: 
+    you can use your favorite algorithm and see the results by going to:
+        --> Classify --> classifier --> choosing the algorithm you want
+
+I hope you enjoy using Weka and have a good time. 
