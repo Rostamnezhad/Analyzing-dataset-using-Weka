@@ -19,8 +19,6 @@ step 2:
 
 step 3:
     go to the proper directory and change the file formats from arff to csv
-    
-![image](https://github.com/Rostamnezhad/Analyzing-dataset-using-Weka/assets/89247982/137b7248-527f-4ca0-8e13-a90d3547cf22)
 
 step 4: 
     now you can see your result like this:
