@@ -7,6 +7,10 @@ First of all you can easily download Weka from https://waikato.github.io/weka-wi
 after that you can use Weka like the following steps 
 
 step 1: 
-    click on the ![image](https://github.com/Rostamnezhad/Analyzing-dataset-using-Weka/assets/89247982/73945de3-5e01-4ca9-98e8-7d28cb69b7de) explorer
+    click on the explorer
+    ![image](https://github.com/Rostamnezhad/Analyzing-dataset-using-Weka/assets/89247982/73945de3-5e01-4ca9-98e8-7d28cb69b7de)
 
-    
+
+step 2:
+    after popping up the new window click on the open file
+    ![image](https://github.com/Rostamnezhad/Analyzing-dataset-using-Weka/assets/89247982/da3a1347-d637-4ddb-82c2-8f897329a321)
